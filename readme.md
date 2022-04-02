@@ -4,7 +4,7 @@
 
 ### Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-1. Ilk elemeni root olarak aliriz.
+1. Ilk elementi root olarak aliriz.
    1. Root: 7
 
 ```text
